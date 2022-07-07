@@ -79,3 +79,68 @@ input {
     height: 2px;
     width: 40%;
 }
+
+.planing-section {
+    text-align: center;
+}
+
+.planing-section h1 {
+    padding: 20px 0 20px 0;
+}
+
+.donation-plan-container {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: left;
+}
+
+
+.donation-plan {
+    width: 30%;
+    margin: 20px;
+    padding: 35px 20px 35px 20px;
+    height: 250px;
+    /* background-color: beige; */
+}
+
+
+.donation-plan h2 {
+    margin: 20px 0 20px 0;
+}
+
+#food {
+    background-color: rgb(187, 182, 119);
+}
+
+#shelter {
+    background-color: rgb(209, 146, 146);
+}
+
+#education {
+    background-color: rgb(200, 164, 119);
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.update-container {
+    text-align: center;
+    width: 40%;
+    margin-top: 30px;
+}
+
+.subscribe-container {
+    background-color: rgba(255, 244, 214, 1);
+    width: 40%;
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
